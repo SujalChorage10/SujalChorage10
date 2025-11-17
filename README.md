@@ -8,14 +8,14 @@ I operate at the intersection of Brand Strategy, Data Analytics, and Digital Mar
 
 ## 🧩 Core Professional Identity
 
-**📌 Brand Strategist & Marketing **  
+📌 Brand Strategist & Marketing 
 - Craft end-to-end brand strategies, go-to-market plans and long-term business planning 
 - Target market segmentation frameworks, market sizing models, and KPI ecosystems across cardiovascular, anti-infective, gastroenterology, renal transplant, and consumer analytics domains
 - Expertise in brand positioning, promotion backed thorough market research and analysis
 - Adept in using research methodologies for understanding periodic market sentiment and customer perception
 - Led digital campaign initiatives, influencer launches for increasing brand's social media outreach
 
-**📌 Data Analyst & Marketing **  
+📌 Data Analyst & Marketing 
 - Evaluate brand sales (a monthly/quartely/ annual ritual) by curating effective dashboards to gain brand performance insights
 - Build Epidemiology-based, analog based multi-year monthly forecasts with variance diagnostics
 - Analyse Competitor Sales, Return on investment and translate TRx data/ REM data (IQVIA & SMSRC data) into commercial plays by uncovering white-space opportunities
@@ -52,14 +52,14 @@ I operate at the intersection of Brand Strategy, Data Analytics, and Digital Mar
 
 ## 📌 Professional Experience Snapshot
 
-**📍 Brand Management, Marketing Analytics & Forecasting **  
- Work experience at Lupin | Alembic | Cipla | Zuventus  
+📍 Brand Management, Marketing Analytics & Forecasting  
+    Work experience at Lupin | Alembic | Cipla | Zuventus  
 - Forecast modeling (EPI, analog, monthly) and variance diagnostics  
 - Market research, competitive intelligence, and brand planning  
 - Field-force enablement, HCP engagement, and digital optimization  
 - High-impact events and celebrity endorsed social media campaigns (MC Mary Kom)
 
-**📍 Student Engagement — Pace University**  
+📍 Student Engagement — Pace University  
 - Designed a data-driven engagement program delivering +12% YoY lift  
 - Built dashboards, insights decks, and operating workflows  
 - Launched incentive-based leadership tracking for student organizations
