@@ -59,7 +59,7 @@ I operate at the intersection of Brand Strategy, Data Analytics, and Digital Mar
 - Field-force enablement, HCP engagement, and digital optimization  
 - High-impact events and celebrity endorsed social media campaigns (MC Mary Kom)
 
-📍 Student Engagement — Pace University  
+📍 Student Engagement, Pace University  
 - Designed a data-driven engagement program delivering +12% YoY lift  
 - Built dashboards, insights decks, and operating workflows  
 - Launched incentive-based leadership tracking for student organizations
@@ -72,7 +72,7 @@ I’m always excited to talk marketing analytics, brand strategy, forecasting fr
 
 - 📧 `csujal999@gmail.com`  
 
-If any of these initiatives resonate—or if you’re exploring collaboration opportunities—I’d love to connect!
+If any of these initiatives resonate or if you’re exploring collaboration opportunities I’d love to connect!
 
 <!--
 **SujalChorage10/SujalChorage10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
