@@ -1,10 +1,10 @@
 # Strategist at Heart, Analyst by Training, Marketeer in Action
 
-Hi, I'm **Sujal Chorage**  a multidisciplinary Marketing Strategist, Pharmaceutical Brand Manager, Commercial Forecaster, and Data-Driven Analyst passionate about transforming data, insights, and creativity into measurable business growth.
+Hi, I'm **Sujal Chorage**  a multidisciplinary Marketing Strategist, Pharmaceutical Brand Manager and Data-Driven Analyst passionate about transforming data, insights, and creativity into measurable business growth.
 
 ## ✨ About Me
 
-I operate at the intersection of Brand Strategy, Data Analytics, and Digital Marketing, bridging strategic foresight with analytical precision and executional excellence. With 5+ years of experience across pharmaceutical brand management, commercial forecasting and marketing analytics, I bring a unique blend of strategic thinking, creativity, and quantitative depth. Currently pursuing my Master’s in Marketing Analytics (GPA: 3.95/4) at Pace University, I’m sharpening my expertise in predictive analytics, data visualization, and AI-driven automation building the profile of a modern marketer/consultant who is comfortable designing a brand strategy as training an ML model.
+I operate at the intersection of Brand Strategy, Data Analytics and Digital Marketing, bridging strategic foresight with analytical precision and executional excellence. With 5+ years of experience across pharmaceutical brand management, trend forecasting and marketing analytics, I bring a unique blend of strategic thinking, creativity, and quantitative depth. Currently pursuing my Master’s in Marketing Analytics (GPA: 3.95/4) at Pace University, I’m sharpening my expertise in predictive analytics, data visualization and AI-driven automation building the profile of a modern marketer/consultant who is comfortable designing a brand strategy as training an ML model.
 
 ## 🧩 Core Professional Identity
 
@@ -17,7 +17,7 @@ I operate at the intersection of Brand Strategy, Data Analytics, and Digital Mar
 
 📌 Data Analyst & Marketing 
 - Evaluate brand sales (a monthly/quartely/ annual ritual) by curating effective dashboards to gain brand performance insights
-- Build Epidemiology-based, analog based multi-year monthly forecasts with variance diagnostics
+- Evaluate Epidemiology-based target market analysis, analog based multi-year/ monthly forecasts for new launch
 - Analyse Competitor Sales, Return on investment and translate TRx data/ REM data (IQVIA & SMSRC data) into commercial plays by uncovering white-space opportunities
 
 
@@ -32,36 +32,35 @@ I operate at the intersection of Brand Strategy, Data Analytics, and Digital Mar
 - Tools: ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white) ![Marketo](https://img.shields.io/badge/Marketo-5C4C9F?style=flat&logo=marketo&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
 
 **📊 Data Analysis, Forecasting & Marketing Integration**  
-- Data cleaning, transformation, and visualization  
+- Data cleaning, transformation and visualization  
 - Patient funnel design, therapy-line forecasting, TRx/REM analytics  
-- Analog modeling, scenario planning, prescriber segmentation  
+- Business scenario planning, prescriber segmentation  
 - Market sizing, pricing analytics, KPI design and  ROI tracking  
 - Tools: ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=databricks&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 **📚 Academic & Technical Strengthening**  
-- Predictive Analytics (regression, classification, ML)  
-- Data management (SQL, Access, Power Query), ETL, and modeling  
+- Predictive Analytics (Regression models & ML)  
+- Data management (SQL, Access, Power Query) ETL, and modeling  
 - Interactive dashboards (Tableau, Power BI)  
 - Insight storytelling and decision science
 
 **🤖 AI, Automation & Modern Marketing Stack**  
 - AI-driven marketing workflows and prompt-engineered content systems  
-- Automated analytics pipelines and ML-assisted forecasting  
 - Generative AI for brand design and creative production  
 - Always open to 1:1 chats on weaving AI into marketing operations
 
 ## 📌 Professional Experience Snapshot
 
-📍 Brand Management, Marketing Analytics & Forecasting  
+📍 Brand Management & Marketing Analytics  
     Work experience at Lupin | Alembic | Cipla | Zuventus  
-- Forecast modeling (EPI, analog, monthly) and variance diagnostics  
-- Market research, competitive intelligence, and brand planning  
+- Data Analysis and insight driven marketing 
+- Market research, competitive intelligence and brand planning  
 - Field-force enablement, HCP engagement, and digital optimization  
 - High-impact events and celebrity endorsed social media campaigns (MC Mary Kom)
 
 📍 Student Engagement, Pace University  
 - Designed a data-driven engagement program delivering +12% YoY lift  
-- Built dashboards, insights decks, and operating workflows  
+- Curated dashboards for differnt datasets to analyse department performance 
 - Launched incentive-based leadership tracking for student organizations
 
 ---
