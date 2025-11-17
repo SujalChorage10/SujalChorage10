@@ -1,43 +1,41 @@
 # Strategist at Heart, Analyst by Training, Marketeer in Action
 
-Hi, I'm **Sujal Chorage** — a multidisciplinary Marketing Strategist, Pharmaceutical Brand Manager, Commercial Forecaster, and Data-Driven Analyst passionate about transforming data, insights, and creativity into measurable business growth.
-
-I operate at the intersection of Brand Strategy, Data Analytics, and Digital Marketing, bridging strategic foresight with analytical precision and executional excellence.
+Hi, I'm **Sujal Chorage**  a multidisciplinary Marketing Strategist, Pharmaceutical Brand Manager, Commercial Forecaster, and Data-Driven Analyst passionate about transforming data, insights, and creativity into measurable business growth.
 
 ## ✨ About Me
 
-With 5+ years of experience across pharmaceutical brand management, commercial forecasting, digital marketing, and marketing analytics, I bring a unique blend of strategic thinking, creativity, and quantitative depth. Currently pursuing my Master’s in Marketing Analytics (GPA: 3.95/4) at Pace University, I’m sharpening my expertise in predictive analytics, data visualization, and AI-driven automation—building the profile of a modern marketer who is as comfortable designing a brand strategy as training an ML model.
+I operate at the intersection of Brand Strategy, Data Analytics, and Digital Marketing, bridging strategic foresight with analytical precision and executional excellence. With 5+ years of experience across pharmaceutical brand management, commercial forecasting and marketing analytics, I bring a unique blend of strategic thinking, creativity, and quantitative depth. Currently pursuing my Master’s in Marketing Analytics (GPA: 3.95/4) at Pace University, I’m sharpening my expertise in predictive analytics, data visualization, and AI-driven automation building the profile of a modern marketer/consultant who is comfortable designing a brand strategy as training an ML model.
 
 ## 🧩 Core Professional Identity
 
-**📌 Strategist**  
-- Craft end-to-end brand strategies, go-to-market playbooks, and long-range roadmaps  
-- Architect segmentation frameworks, market sizing models, and KPI ecosystems across cardiovascular, anti-infective, gastroenterology, renal transplant, and consumer analytics domains
+**📌 Brand Strategist & Marketing **  
+- Craft end-to-end brand strategies, go-to-market plans and long-term business planning 
+- Target market segmentation frameworks, market sizing models, and KPI ecosystems across cardiovascular, anti-infective, gastroenterology, renal transplant, and consumer analytics domains
+- Expertise in brand positioning, promotion backed thorough market research and analysis
+- Adept in using research methodologies for understanding periodic market sentiment and customer perception
+- Led digital campaign initiatives, influencer launches for increasing brand's social media outreach
 
-**📌 Analyst**  
-- Build EPI-based, analog-based, and multi-year monthly forecasts with variance diagnostics  
-- Evaluate ROI, uncover white-space opportunities, and translate IQVIA & SMSRC data into commercial plays
-
-**📌 Marketeer**  
-- Lead digital campaigns, influencer launches, content systems, and performance analysis  
-- Orchestrate funnel optimization, creative direction, and revenue lift across channels
+**📌 Data Analyst & Marketing **  
+- Evaluate brand sales (a monthly/quartely/ annual ritual) by curating effective dashboards to gain brand performance insights
+- Build Epidemiology-based, analog based multi-year monthly forecasts with variance diagnostics
+- Analyse Competitor Sales, Return on investment and translate TRx data/ REM data (IQVIA & SMSRC data) into commercial plays by uncovering white-space opportunities
 
 
 ## 🏅 Skills, Tools & Expertise
 
 **🎯 Marketing & Brand Management**  
 - Pharmaceutical brand leadership (Cardiovascular, Heart failure, anti-infective, Gastroenterology, Renal Transplant)  
-- GTM strategy, positioning, and consumer insighting  
-- Social media systems, content architectures, and creative direction  
-- Email marketing, segmentation, and A/B experimentation  
+- GTM strategy, Market Research, Customer journey mapping, brand positioning and consumer insighting  
+- Social media systems, content architecture and creative direction  
+- Email marketing, segmentation and A/B experimentation  
 - Integrated campaigns (events, influencers, webinars, media outreach)  
-- - Tools: ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white) ![Marketo](https://img.shields.io/badge/Marketo-5C4C9F?style=flat&logo=marketo&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
+- Tools: ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white) ![Marketo](https://img.shields.io/badge/Marketo-5C4C9F?style=flat&logo=marketo&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white)
 
 **📊 Data Analysis, Forecasting & Marketing Integration**  
-- Advanced cleansing, transformation, and visualization  
+- Data cleaning, transformation, and visualization  
 - Patient funnel design, therapy-line forecasting, TRx/REM analytics  
 - Analog modeling, scenario planning, prescriber segmentation  
-- Market sizing, pricing analytics, KPI design, variance decomposition  
+- Market sizing, pricing analytics, KPI design and  ROI tracking  
 - Tools: ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=databricks&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 **📚 Academic & Technical Strengthening**  
